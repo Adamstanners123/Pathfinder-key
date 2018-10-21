@@ -1,0 +1,3 @@
+#pragma once
+
+enum class ProgramState {MENU, OBSTACLEMENU, ARRAYMENU, STEP, SKIP, NONE, SMALL, LARGE, SURROUNDING, EVEN};
